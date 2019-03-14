@@ -1,3 +1,16 @@
+#protein {
+  background-color: #FFA07A;
+}
+#carbs {
+  background-color: #0EF763;
+}
+#fats {
+  background-color: #F7AA0E;
+}
+p {
+  color: black;
+  font-size: 12px;
+}
 @media (min-width: 768px) and (max-width: 991px) {
   
 }
