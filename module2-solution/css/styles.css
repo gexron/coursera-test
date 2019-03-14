@@ -18,14 +18,13 @@ p {
 span {
   font-family: Arial;
   border: 1px solid black;
-  position: absolute;
-  top: 0;
-  right: 0;
+  position: relative;
+  left: 90%;
 }
 section {
   background-color: grey;
   padding: 10px 10px 10px 10px;
-  margin: 30px 30px 30px 30px;
+  margin: 10px 10px 10px 10px;
 }
 @media (max-width: 767px) {
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10,
@@ -49,7 +48,7 @@ section {
     width: 41.66%;
   }
   .col-sm-6 {
-    width: 50%;
+    width: 49.99%;
   }
   .col-sm-7 {
     width: 58.33%;
@@ -92,7 +91,7 @@ section {
     width: 41.66%;
   }
   .col-md-6 {
-    width: 50%;
+    width: 49.99%;
   }
   .col-md-7 {
     width: 58.33%;
@@ -135,7 +134,7 @@ section {
     width: 41.66%;
   }
   .col-lg-6 {
-    width: 50%;
+    width: 49.99%;
   }
   .col-lg-7 {
     width: 58.33%;
