@@ -7,6 +7,10 @@
 #fats {
   background-color: #F7AA0E;
 }
+h1 {
+  font-family: Helvetica;
+  text-align: center;
+}
 p {
   color: black;
   font-size: 12px;
