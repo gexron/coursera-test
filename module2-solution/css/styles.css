@@ -14,6 +14,7 @@ p {
 span {
   font-family: Arial;
   border: 3px solid black;
+  position: top,right;
 }
 section {
   background-color: grey;
