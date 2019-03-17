@@ -1,11 +1,14 @@
 #protein {
   background-color: #FFA07A;
+  float: right top;
 }
 #carbs {
   background-color: #0EF763;
+  float: right top;
 }
 #fats {
   background-color: #F7AA0E;
+  float: right top;
 }
 h1 {
   font-family: Helvetica;
@@ -18,8 +21,6 @@ p {
 span {
   font-family: Arial;
   border: 1px solid black;
-  position: relative;
-  left: 90%;
 }
 section {
   background-color: grey;
